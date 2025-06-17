@@ -1,0 +1,7 @@
+subprocess
+gnome-calculator
+
+# This file lists the dependencies required for the project.
+# Add any required packages here, for example:
+# PyPlugin
+# If there are no dependencies, this file can be left empty.
