@@ -1,5 +1,5 @@
 import unittest
-from src.launch_calculator import LaunchCalculator
+from src.actions.launch_calculator import LaunchCalculator
 from unittest.mock import patch, MagicMock
 
 class TestLaunchCalculator(unittest.TestCase):
