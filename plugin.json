@@ -1,0 +1,7 @@
+{
+  "name": "LaunchCalculator",
+  "version": "1.0.0",
+  "author": "bea0312",
+  "description": "A simple plugin that launches Calculator",
+  "actions": ["LaunchCalculator"]
+}
